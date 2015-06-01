@@ -1,0 +1,42 @@
+.ico-home{
+	font-size: 2em;
+}
+.nav > li.home-item > a{
+	color: #000 !important;
+}
+.nav > li.home-item > a:hover, .nav > li.home-item > a:focus{
+	background: none !important;
+}
+.menu-cuenta{
+	min-width: 320px;
+	max-width: 480px;
+	z-index: 1;
+	padding-bottom: 12px;
+	padding: 20px;
+	background: #fff;
+	border-radius: 5px;
+	background-clip: padding-box;
+}
+.menu-cuenta img{
+	margin: 5px;
+	border: 3px solid #ccc;
+}
+.menu-cuenta .nav > li > a {
+  padding: 3px;
+}
+
+.row.inside-modal {
+  text-align: center;
+}
+
+.inside-modal img.img-responsive {
+  max-height: 480px;
+  margin: 0 auto;
+}
+.thumbnail.profile-picture-thumbnail{
+	text-align: center;
+	border: 0;
+}
+.thumbnail.profile-picture-thumbnail .profile-picture{
+	margin-bottom: 10px;
+}
